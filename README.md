@@ -17,7 +17,7 @@ Whether it's architecting scalable backend systems, crafting intuitive user inte
 
 <div style="display: flex; flex-wrap: wrap; gap: 32px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="46" height="46">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="46" height="46">
+  <img src="https://raw.githubusercontent.com/CSS-Next/logo.css/refs/heads/main/css.svg" width="46" height="46">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="46" height="46">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="46" height="46">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="46" height="46">
